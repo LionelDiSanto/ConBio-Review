@@ -1,0 +1,8 @@
+For all simulations, the environmental, geographic and genetic datasets used were:
+From native distribution filtered for population without environmental data
+(_native_filtered)
+
+###############
+
+Values of Npop=5,10 were not tested for both realistic and theoretical simulations because
+at least one of the four methods (Random, GeoBased, EnvBased, GeoEnvBased) could  not be run.
