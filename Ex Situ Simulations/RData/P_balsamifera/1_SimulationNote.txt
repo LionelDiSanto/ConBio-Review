@@ -1,0 +1,6 @@
+When running simulation for P. balsamifera, an error message pop up:
+'lapply(x, as.integer): NAs introduced' (from memory, may not be exactly this).
+This error come from the fact that when using df2genind function, the individual with
+only one allele unknown (line 351, col SZ and TA) consider '-9' as an allele. After a 
+control, genetic parameters estimated using basic.stats() do not change because of the
+error. Therefore, the one-missing allele was kept for simulations 2 and 3
