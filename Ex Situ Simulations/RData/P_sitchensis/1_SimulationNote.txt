@@ -1,0 +1,2 @@
+For all simulations, environmental, geographic and genetic data used were:
+Without populations for which environmental data could not be retreived (_filtered)
