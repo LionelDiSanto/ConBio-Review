@@ -1,0 +1,4 @@
+Shorea leprosula and Helianthus argophyllus cannot be run for simulation 3 because a value of Npop for at least
+GeoBased simulations (EnvBased not tested) cannot be tested:
+- S leprosula Npop=6 / GeoBased
+- H_argophyllys Npop=46 / GeoBased
