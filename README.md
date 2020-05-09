@@ -6,5 +6,5 @@ Visit our "Wiki" page for more details on the content available.
 ## Reference
 https://www.biorxiv.org/content/10.1101/2020.02.22.960989v1
 
-## Authors
-Lionel Di Santo and Jill A. Hamilton
+## Contact
+Lionel N. Di Santo: lionel.disanto@ndsu.edu
