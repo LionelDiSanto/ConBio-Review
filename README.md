@@ -7,4 +7,4 @@ Visit our "Wiki" page for more details on the content available.
 https://www.biorxiv.org/content/10.1101/2020.02.22.960989v1
 
 ## Contact
-Lionel N. Di Santo: lionel.disanto@ndsu.edu
+Lionel Di Santo: lionel.disanto@ndsu.edu
