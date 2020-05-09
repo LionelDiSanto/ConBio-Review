@@ -1,0 +1,77 @@
+﻿species ,category,variable,value
+M. lacinatus (SSRs),Neutral,IBD,0.01
+M. lacinatus (SSRs),Neutral,IBE,0.03
+M. lacinatus (SSRs),Neutral,IBD_IBE,0.08
+M. lacinatus (SSRs),Neutral,IBDandIBE,0.04
+N. papyraceus (SSRs),Neutral,IBD,0.12
+N. papyraceus (SSRs),Neutral,IBE,0.03
+N. papyraceus (SSRs),Neutral,IBD_IBE,0.17
+N. papyraceus (SSRs),Neutral,IBDandIBE,0.02
+N. alpina  (SSRs),Neutral,IBD,0
+N. alpina  (SSRs),Neutral,IBE,0
+N. alpina  (SSRs),Neutral,IBD_IBE,0.18
+N. alpina  (SSRs),Neutral,IBDandIBE,0.18
+N. glauca  (SSRs),Neutral,IBD,0.75
+N. glauca  (SSRs),Neutral,IBE,0.05
+N. glauca  (SSRs),Neutral,IBD_IBE,0.86
+N. glauca  (SSRs),Neutral,IBDandIBE,0.06
+N. obliqua  (SSRs),Neutral,IBD,0.17
+N. obliqua  (SSRs),Neutral,IBE,0.06
+N. obliqua  (SSRs),Neutral,IBD_IBE,0.62
+N. obliqua  (SSRs),Neutral,IBDandIBE,0.39
+C. solstitialis (SNPs),Neutral,IBD,0.14
+C. solstitialis (SNPs),Neutral,IBE,0.33
+C. solstitialis (SNPs),Neutral,IBD_IBE,0.47
+C. solstitialis (SNPs),Neutral,IBDandIBE,0
+H. annuus (SNPs),Neutral,IBD,0.1
+H. annuus (SNPs),Neutral,IBE,0.08
+H. annuus (SNPs),Neutral,IBD_IBE,0.2
+H. annuus (SNPs),Neutral,IBDandIBE,0.02
+M. guttatus (SNPs),Neutral,IBD,0.14
+M. guttatus (SNPs),Neutral,IBE,0.09
+M. guttatus (SNPs),Neutral,IBD_IBE,0.23
+M. guttatus (SNPs),Neutral,IBDandIBE,0
+B. maximowicziana (EST-SSRs),Functional,IBD,0.02
+B. maximowicziana (EST-SSRs),Functional,IBE,0.02
+B. maximowicziana (EST-SSRs),Functional,IBD_IBE,0.46
+B. maximowicziana (EST-SSRs),Functional,IBDandIBE,0.42
+R. oldhamii (EST-SSRs),Functional,IBD,0.13
+R. oldhamii (EST-SSRs),Functional,IBE,0.05
+R. oldhamii (EST-SSRs),Functional,IBD_IBE,0.42
+R. oldhamii (EST-SSRs),Functional,IBDandIBE,0.24
+S. leprosula (EST-SSRs),Functional,IBD,0.24
+S. leprosula (EST-SSRs),Functional,IBE,0.03
+S. leprosula (EST-SSRs),Functional,IBD_IBE,0.52
+S. leprosula (EST-SSRs),Functional,IBDandIBE,0.25
+H. argophyllus (Gen-SNPs),Functional,IBD,0.02
+H. argophyllus (Gen-SNPs),Functional,IBE,0.04
+H. argophyllus (Gen-SNPs),Functional,IBD_IBE,0.38
+H. argophyllus (Gen-SNPs),Functional,IBDandIBE,0.32
+P. balsamifera (Gen-SNPs),Functional,IBD,0.35
+P. balsamifera (Gen-SNPs),Functional,IBE,0.01
+P. balsamifera (Gen-SNPs),Functional,IBD_IBE,0.66
+P. balsamifera (Gen-SNPs),Functional,IBDandIBE,0.3
+P. sitchensis (Gen-SNPs),Functional,IBD,0.07
+P. sitchensis (Gen-SNPs),Functional,IBE,0
+P. sitchensis (Gen-SNPs),Functional,IBD_IBE,0.44
+P. sitchensis (Gen-SNPs),Functional,IBDandIBE,0.37
+"P. tremula (Gen-SNPs, control set)",Functional,IBD,0.02
+"P. tremula (Gen-SNPs, control set)",Functional,IBE,0
+"P. tremula (Gen-SNPs, control set)",Functional,IBD_IBE,0.04
+"P. tremula (Gen-SNPs, control set)",Functional,IBDandIBE,0.02
+"P. tremula (Gen-SNPs, defense set)",Functional,IBD,0.15
+"P. tremula (Gen-SNPs, defense set)",Functional,IBE,0.05
+"P. tremula (Gen-SNPs, defense set)",Functional,IBD_IBE,0.53
+"P. tremula (Gen-SNPs, defense set)",Functional,IBDandIBE,0.33
+P. balsamifera (SEL-SNPs),Selected,IBD,0.32
+P. balsamifera (SEL-SNPs),Selected,IBE,0.01
+P. balsamifera (SEL-SNPs),Selected,IBD_IBE,0.75
+P. balsamifera (SEL-SNPs),Selected,IBDandIBE,0.42
+P. sitchensis (SEL-SNPs),Selected,IBD,0.15
+P. sitchensis (SEL-SNPs),Selected,IBE,0
+P. sitchensis (SEL-SNPs),Selected,IBD_IBE,0.71
+P. sitchensis (SEL-SNPs),Selected,IBDandIBE,0.56
+P. tremula (SEL-SNPs),Selected,IBD,0.16
+P. tremula (SEL-SNPs),Selected,IBE,0.07
+P. tremula (SEL-SNPs),Selected,IBD_IBE,0.48
+P. tremula (SEL-SNPs),Selected,IBDandIBE,0.25
