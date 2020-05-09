@@ -1,0 +1,3 @@
+For Simulation 1:
+P_tremula_def and P_tremula_selected started at Nind=2 because there are individuals with no genetic information at 
+all markers (which return an error in R).
