@@ -131,7 +131,7 @@ sim1_D <- subset(sim1, sim1$status=="Discarded from Realistic Simulations")
 discarded <- ggplot(data=sim1_D, aes(x=PopID, y=Mean, color=Datasets)) + 
   geom_hline(yintercept = .8, linetype='dashed', color='red') +
   geom_point() + ylim(.5,1) + geom_line() + theme_classic() +
-  xlab('Population ID') + ylab(expression(paste("A" ["c"],"/A" ["d"])))+
+  xlab('Population ID') + ylab(expression(paste("A" ["s"],"/A" ["p"])))+
   geom_errorbar(data=sim1_D, aes(ymin=Mean-1.96*SE, ymax=Mean+1.96*SE), width=.5)+
   scale_color_manual(values=c('blue','grey', 'red', 'orange'))+
   theme(panel.grid = element_blank(),axis.text = element_text(size=12), 
@@ -142,7 +142,7 @@ sim1_K <- subset(sim1, sim1$status=="Included in Realistic Simulations")
 kept <- ggplot(data=sim1_K, aes(x=PopID, y=Mean, color=Datasets)) + 
   geom_hline(yintercept = .8, linetype='dashed', color='red') +
   geom_point() + ylim(.5,1) + geom_line() + theme_classic() +
-  xlab('') + ylab(expression(paste("A" ["c"],"/A" ["d"])))+
+  xlab('') + ylab(expression(paste("A" ["s"],"/A" ["p"])))+
   geom_errorbar(data=sim1_K, aes(ymin=Mean-1.96*SE, ymax=Mean+1.96*SE), width=.5)+
   scale_color_manual(values=c('green', 'lightblue','lightgrey',
                               'darkgreen','darkblue','lightgreen', 'darkgrey', 'darkred',
