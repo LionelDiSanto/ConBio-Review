@@ -1,10 +1,10 @@
-# ConBio manuscript - Supplementary material
-This repository contains all datasets and R codes we used in our paper "Environmental and geographic data optimize ex situ collections and the preservation of adaptive evolutionary potential".
+# Di Santo and Hamilton 2020 - Supplementary material
+This repository contains all datasets and R codes we used in our paper "Using environmental and geographic data to optimize ex situ collections and preserve evolutionary potential".
 
 Visit our "Wiki" page for more details on the content available.
 
 ## Reference
-https://www.biorxiv.org/content/10.1101/2020.02.22.960989v1
+https://doi.org/10.1111/cobi.13568
 
 ## Contact
 Lionel Di Santo: lionel.disanto@ndsu.edu
