@@ -1,5 +1,5 @@
 # Di Santo and Hamilton 2020 - Supplementary material
-This repository contains all datasets and R codes we used in our paper "Using environmental and geographic data to optimize ex situ collections and preserve evolutionary potential".
+This repository contains all datasets and R codes we used in our paper **Using environmental and geographic data to optimize ex situ collections and preserve evolutionary potential**.
 
 Visit our "Wiki" page for more details on the content available.
 
